@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rognstadragnar/a-utils/master/lgo.png" alt="a-utils">  
+  <img src="https://raw.githubusercontent.com/rognstadragnar/a-utils/master/logo.png" alt="a-utils">  
 </div>
 
 # A-utils
