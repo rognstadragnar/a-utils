@@ -9,6 +9,7 @@
   "main": "dist/a-utils.js",
   "module": "dist/a-utils.esm.js",
   "browser": "dist/a-utils.umd.js",
+  "types": "dist/main.d.ts",
   "devDependencies": {
     "microbundle": "^0.4.3",
     "prettier": "^1.10.2",
