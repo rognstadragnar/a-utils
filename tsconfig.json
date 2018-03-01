@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es2015",
+    "baseUrl": ".",
+    "paths": {
+      "*": ["node_modules/*", "node_modules/@types/*"]
+    },
+    "lib": ["es2015", "dom"]
+  }
+}
